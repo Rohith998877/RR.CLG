@@ -164,7 +164,7 @@ nav .nav-wrapper{
 }
 
 nav ul li{
-	// margin: 0 1em;
+	 margin: 0 1em;
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus{
@@ -179,17 +179,18 @@ nav ul li{
 }
 
 #dropdown1{
-	// overflow: hidden;
+	 overflow: hidden;
 }
 
 .logo-name{
 	display: flex;
 	align-items:center;
 	margin-left: 2rem;
+     radius:50px;
 }
 
 .logo-name .name h5{
-	// font-weight: bold;
+	 font-weight: bold;
 	font-size: 2.3rem;
 	text-decoration: none;
 	color: rgb(50,50,50);
